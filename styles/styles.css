@@ -94,22 +94,22 @@ a {
     cursor: pointer;
 }
 
-.projects {
-    margin-top: 150px;
+.projects-items {
+    margin-top: 90px; 
 }
 
-.projects-items {
-    margin-top: 90px;
+.projects-item {
+    padding-bottom: 90px;
 }
 
 .projects-item-img {
     width: 1150px;
     height: 450px;
-    margin-top: 90px;
+    padding-bottom: 15px;
 }
 
 .projects-item-title {
-    margin-top: 15px;
+    padding-bottom: 15px;
     font-size: 30px;
     line-height: 41px;
 }
@@ -118,12 +118,7 @@ a {
     color: #ad1818;
 }
 
-.projects-item-link p {
-    margin-top: 15px;
-}    
-
-.projects-button {
-    margin-top: 90px;   
+.projects-button {   
     width: 1150px;
     height: 153px;
     color: #ad1818;
@@ -161,10 +156,10 @@ a {
 .services-item-img {
     width: 1150px;
     height: 270px;
+    padding-bottom: 15px;
 }
 
 .services-item-title {
-    margin-top: 15px;
     font-size: 30px;
     line-height: 41px;
 }
@@ -194,7 +189,6 @@ a {
 }
 
 .contacts-sub-title {
-    margin-top: 13px;
     font-size: 18px;
     line-height: 25px;
 }
@@ -242,21 +236,22 @@ a {
     display: flex;
     justify-content: space-between;
     margin: 0 auto;
+    padding-bottom: 87px;
     font-size: 18px;
     line-height: 25px;
 }
+
 .footer-nav a {
     color: white;
 }
+
 .footer-nav a:hover {
     opacity: 0.5;
     text-decoration: underline;
 }
+
 .footer-text {
-    margin-top: 87px;
     opacity: 0.5;
     font-size: 20px;
     line-height: 27px;
 }
-
-

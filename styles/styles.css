@@ -116,8 +116,11 @@ a {
 
 .projects-item-link {
     color: #ad1818;
-    margin-top: 15px;
 }
+
+.projects-item-link p {
+    margin-top: 15px;
+}    
 
 .projects-button {
     margin-top: 90px;   

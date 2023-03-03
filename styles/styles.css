@@ -51,12 +51,15 @@ a {
     background-repeat: no-repeat;
     width: 1150px;
     height: 500px;
+    position: relative;
 }
 .main-img-title {
     color: white;
     max-width: 450px;
     margin-left: 40px;
-    padding-top: 379px;
+    left: 40px;
+    bottom: 40px;
+    position: absolute;
     font-size: 20px;
     line-height: 27px;
 }
@@ -169,6 +172,7 @@ a {
     background-repeat: no-repeat;
     width: 1400px;
     height: 717px;
+    position: relative;
 }
 
 .final-item-title {
@@ -177,6 +181,9 @@ a {
     max-width: 443px;
     font-size: 30px;
     line-height: 41px;
+    left: 125px;
+    bottom: 60px;
+    position: absolute;
 }
 
 .contacts {

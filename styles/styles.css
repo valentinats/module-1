@@ -97,8 +97,8 @@ a {
     cursor: pointer;
 }
 
-.projects-items {
-    margin-top: 90px; 
+.projects-item:first-child {
+    margin-top: 30px;
 }
 
 .projects-item {
@@ -262,3 +262,4 @@ a {
     font-size: 20px;
     line-height: 27px;
 }
+

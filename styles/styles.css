@@ -33,8 +33,9 @@ a {
 }
 
 .menu-nav a:hover{
-    text-decoration: underline;
     opacity: 0.5;
+    padding-bottom: 2px;
+    border-bottom: 1px solid;
 }
 
 .main-info {
@@ -258,7 +259,7 @@ a {
 
 .footer-nav a:hover {
     opacity: 0.5;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .footer-text {

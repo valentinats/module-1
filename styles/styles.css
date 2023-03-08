@@ -41,11 +41,13 @@ a {
 .primary-info {
     margin-top: 70px;
 }
+
 .primary-info h1 {
     max-width: 990px;
     font-size: 60px;
     line-height: 60px;
 }
+
 .primary-img {
     margin-top: 30px;
     background-image: url("../resources/Rectangle\ 1.jpg");
@@ -54,6 +56,7 @@ a {
     height: 500px;
     position: relative;
 }
+
 .primary-img-title {
     color: white;
     max-width: 450px;

@@ -50,7 +50,7 @@ a {
 
 .primary-img {
     margin-top: 30px;
-    background-image: url("./resources/chair.jpg");
+    background-image: url("../resources/chair.jpg");
     background-repeat: no-repeat;
     width: 1150px;
     height: 500px;
@@ -176,7 +176,7 @@ a {
 }
 
 .final-img {
-    background-image: url("./resources/big-bed.jpg");
+    background-image: url("../resources/big-bed.jpg");
     background-repeat: no-repeat;
     width: 1400px;
     height: 717px;

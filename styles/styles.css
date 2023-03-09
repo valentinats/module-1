@@ -85,6 +85,8 @@ main {
     margin-top: 30px;
     font-size: 45px;
     line-height: 61px;
+    letter-spacing: -0.03em;
+    width: 1048px;
 }
 
 .about-button {

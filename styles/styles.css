@@ -1,5 +1,4 @@
 html, body {
-    width: 1400px;
     font-family: 'Manrope', sans-serif;
     font-style: normal;
     font-weight: 400;
@@ -178,7 +177,9 @@ a {
 .final-img {
     background-image: url("../resources/big-bed.jpg");
     background-repeat: no-repeat;
-    width: 1400px;
+    background-size: 100%;
+    overflow: hidden;
+    width: 100%;
     height: 717px;
     position: relative;
 }
@@ -270,4 +271,3 @@ a {
     font-size: 20px;
     line-height: 27px;
 }
-

@@ -168,7 +168,7 @@ main {
     color: white;
     margin-top: 163px;
     padding-top: 151px;
-    padding-bottom: 140px;
+    padding-bottom: 136px;
     overflow: hidden;
 }
 
@@ -257,7 +257,7 @@ main {
 }
 
 .email-line {
-    margin-top: 10px;
+    margin-top: 8px;
     width: 406px;
     height: 2px;
     background-color: #121212;

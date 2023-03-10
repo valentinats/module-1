@@ -7,6 +7,10 @@ html, body {
     scroll-behavior: smooth;
 }
 
+.about-button, .projects-button {
+    font-family: 'Manrope', sans-serif; 
+}
+
 a {
     text-decoration: none;
 }
